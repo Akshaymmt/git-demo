@@ -23,5 +23,13 @@ public class MainActivity extends AppCompatActivity {
         //For loop
         //Parsing
         //JSON Manipulation
+
+        addition(10, 20);
+    }
+
+    protected void addition( int a, int b)
+    {
+        return a + b;
     }
 }
+
