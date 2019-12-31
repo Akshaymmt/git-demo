@@ -13,5 +13,11 @@ public class MainActivity extends AppCompatActivity {
 
         //Pankaj wrote few code
         //Code cleanup
+
+        //Akshays logic
+        //Manipulation
+        //Heavy code and logic
+
+        //SImple UI update
     }
 }
