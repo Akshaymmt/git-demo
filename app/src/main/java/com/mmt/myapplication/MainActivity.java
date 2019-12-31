@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         addition(10, 20);
     }
 
-    protected void addition( int a, int b)
+    protected int addition( int a, int b)
     {
         return a + b;
     }
