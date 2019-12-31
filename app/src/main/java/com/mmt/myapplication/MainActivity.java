@@ -27,5 +27,10 @@ public class MainActivity extends AppCompatActivity {
     {
         return a + b;
     }
+
+    protected int sub( int a, int b)
+    {
+        return a - b;
+    }
 }
 
