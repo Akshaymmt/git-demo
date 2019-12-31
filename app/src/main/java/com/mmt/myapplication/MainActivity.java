@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         //Heavy code and logic
 
         //SImple UI update
+
         //Pratiksha's code
         //For loop
         //Parsing
